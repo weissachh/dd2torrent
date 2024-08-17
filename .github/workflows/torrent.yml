@@ -5,10 +5,10 @@ on:
       - master
       
 env:
-  name: "Android Studio and SDK Tools"
-  comment: "Android Studio for Windows"
-  url: "https://redirector.gvt1.com/edgedl/android/studio/install/4.1.2.0/android-studio-ide-201.7042882-windows.exe"
-  file_name: "android-studio-ide-201.7042882-windows.exe"
+  name: "Traffic Car Pack for MeEEEE"
+  comment: "Traffic Car Pack Assetto Corsa"
+  url: "https://download2445.mediafire.com/3lo04ztlcsbgI9xRSTMDnsqLRsWg5v36yGlhrmvxi1BzGr0ImUm5_1kCvJKFEIsXnULAAuCR5Y-U27p2ALc_5W7S9K9fn4HHBa7EZPgZAcQ3hEKzdOMCl9ZsUXss0iwm5Wy9KLzZE0qxF4ZSsHYb4fQh_gBj_xBGS2vrkDyVgaFox7s/m7eltvmka7kh9c9/Traffic+Pack.7z"
+  file_name: "Traffic Pack.7z"
   piece_size: 19 # Check the README.md for recommended piece size
       
 jobs:
